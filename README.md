@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kiranmayi</h1>
 <h3 align="center">A passionate learner.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Azure DevOps**
 
 - 📫 How to reach me **kiranmayimunagala421@gmail.com**
 
