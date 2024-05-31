@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kiranmayi</h1>
 <h3 align="center">A passionate learner.</h3>
 
-- 🌱 I’m currently learning **Azure DevOps**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **kiranmayimunagala421@gmail.com**
 
-- ⚡ Fun fact **I love Momos.**
+- ⚡ Fun fact **I am an avid reader.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
